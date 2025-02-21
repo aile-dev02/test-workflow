@@ -13,3 +13,4 @@ jobs:
       - name: ls
         run: |
           git ls-files
+          git show-ref
